@@ -77,3 +77,6 @@ One question worth holding onto throughout: what would it take for this system t
 ### Reminder
 
 A change to the requirements lands on day two. You will not be told what it is.
+## System Metrics & Regulatory Visualizations
+
+![Metrics Summary](metrics_summary.png)
