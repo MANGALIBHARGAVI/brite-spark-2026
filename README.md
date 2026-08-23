@@ -80,3 +80,10 @@ A change to the requirements lands on day two. You will not be told what it is.
 ## System Metrics & Regulatory Visualizations
 
 ![Metrics Summary](metrics_summary.png)
+## 🌐 Interactive Web Dashboard
+
+To launch the live interactive analytics web interface locally:
+
+1. Install required packages:
+   ```cmd
+   pip install -r requirements.txt
